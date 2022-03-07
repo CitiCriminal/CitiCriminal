@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CitiCriminal
 - 👀 I’m interested in networking
 - 🌱 I’m currently learning php/go
-- 💞️ I’m looking to collaborate on networking
+- 💞️ I’m looking to collaborate on networking/coding and other stuff.
 - 📫 How to reach me discord/telegram
 
 <!---
