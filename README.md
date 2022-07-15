@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CitiCriminal
 - 👀 I’m interested in networking
-- 🌱 I’m currently learning go/C++
+- 🌱 I’m currently learning go/C++/PHP
 - 💞️ I’m looking to collaborate on networking/coding and other stuff.
-- 📫 How to reach me? discord/telegram. Discord: Movie#1139, Telegram: @citicriminal
+- 📫 How to reach me? discord/telegram. Discord: Movie#7928, Telegram: @moviecatto
 
 <!---
 CitiCriminal/CitiCriminal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
