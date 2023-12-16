@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Movie</h1>
-<h3 align="center">a 16-year-old based in the Netherlands.</h3>
+<h3 align="center">A 16-year-old residing in the Netherlands with a passion for programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=citicriminal&label=Profile%20views&color=0e75b6&style=flat" alt="citicriminal" /> </p>
 
