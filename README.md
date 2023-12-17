@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=citicriminal&label=Profile%20views&color=0e75b6&style=flat" alt="citicriminal" /> </p>
 
-- 🔭 I’m currently working on **Intery.WTF**
-
 - 👨‍💻 All of my projects are available at my github and portfolio [https://m0vie.club](https://m0vie.club)
 
 <h3 align="left">Connect with me:</h3>
